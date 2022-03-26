@@ -5,6 +5,7 @@ A way to connect Unity and Web app through WebRTC
 
 ## Inspiration
 During the Hacking The Hack remote hackathon, when I was seeing everyone pitching their ideas, I was thinking that it looks like separate apps, interesting, but not so meta...
+![miro](https://user-images.githubusercontent.com/3470988/160245724-cba225c6-38ed-4f22-a94e-2f195b677f03.PNG)
 
 ## What it does
 Enable interoperability between projects through a unity and web compatible library based on WebRTC.
